@@ -1,0 +1,91 @@
+header {
+  background-image: url(https://images.unsplash.com/photo-1445299370299-fba06c02df22?crop=entropy&fit=crop&fm=jpg&h=850&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450);
+  height:500px;
+  background-position-y: -140px;
+  margin-right: 0;
+  margin-bottom: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-text h1 {
+  color: #FFF;
+  font-size:100px;
+  font-weight: 400;
+
+  margin: 0;
+  position: relative;
+  text-align: center;
+}
+#navbar ul {
+    color: white;
+    font-size: medium;
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    list-style: none;
+}
+.header-image-overlay {
+  background-color: #2A60CA;
+  height: 500px;
+  opacity: 0.3;
+}
+section > h1 {
+  color:#1351E0;
+  font-size: 30px;
+  font-style: normal;
+  font-weight:bolder;;
+}
+h3  {
+  color:#1351E0;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+.sidebar-sec-heading {
+  width: 30%;
+  display: inline-block;
+  margin-right: 12px;
+
+}
+.anneMarieCap {
+  font-size: 5px;
+  text-align: right;
+  position: relative;
+  display: block;
+  /* POSITION UNDER IMG */
+}
+.leftColside {
+  width: 60%;
+  display: inline-block;
+  vertical-align: text-bottom;
+  padding-right: 5%;
+}
+.asidePadImg {
+  margin-right: 10%;
+  display: inline-block;
+}
+.wrapperFoot {
+  width: 100%;
+  display: inline-block;
+}
+
+.col-1 {
+  width: 24.3%;
+  display: inline-block;
+}
+.col-2 {
+  width: 24.3%;
+display: inline-block;
+}
+.col-3 {
+  width: 24.3%;
+display: inline-block;
+}
+.col-4 {
+  width: 24.3%;
+display: inline-block;
+}
+footer > h1 {
+  color: #1351E0;
+}
